@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.49a0c70d.css",
+    "main.js": "/static/js/main.f7a06d62.js",
+    "static/media/csm.png": "/static/media/csm.9ba815f8a0f4fcc3e462.png",
+    "static/media/heroImage.png": "/static/media/heroImage.a5ba72b212cb42c5a156.png",
+    "static/media/spyxfamily.jpg": "/static/media/spyxfamily.d05f878f5fa426fc4517.jpg",
+    "static/media/demonslayer.jpg": "/static/media/demonslayer.cb13f41403229ef4dab3.jpg",
+    "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
+    "index.html": "/index.html",
+    "main.49a0c70d.css.map": "/static/css/main.49a0c70d.css.map",
+    "main.f7a06d62.js.map": "/static/js/main.f7a06d62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49a0c70d.css",
+    "static/js/main.f7a06d62.js"
+  ]
+}
